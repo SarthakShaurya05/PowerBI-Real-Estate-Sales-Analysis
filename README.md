@@ -115,15 +115,15 @@ The dashboard provides insights such as:
 
 ## Dashboard Preview
 
-Overview page:
+**Overview page:**
 
 ![Overview page](https://github.com/SarthakShaurya05/PowerBI-Real-Estate-Sales-Analysis/blob/main/Screenshot%202026-07-05%20023908.png?raw=true)
 
-Sales Performance:
+**Sales Performance:**
 
 ![Sales Performance](https://github.com/SarthakShaurya05/PowerBI-Real-Estate-Sales-Analysis/blob/main/Screenshot%202026-07-05%20023931.png?raw=true)
 
-House Type:
+**House Type:**
 
 ![image alt](https://github.com/SarthakShaurya05/PowerBI-Real-Estate-Sales-Analysis/blob/main/Screenshot%202026-07-05%20023946.png?raw=true)
 
